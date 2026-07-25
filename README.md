@@ -10,6 +10,7 @@
 *   **광고 목적:** 인지 (Brand Awareness) 및 브랜드 인상 각인 (Brand Awareness)
 *   **핵심 메시지 (한 문장):** 
     > **"빛바랜 공간, 당신의 온기로 다시 이뻐지다."**
+    > 
     > https://github.com/user-attachments/assets/7f2e4f35-13fd-44bc-b400-588902a1fae0
 ---
 
