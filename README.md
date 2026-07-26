@@ -182,7 +182,7 @@ Hook(3s) ──> 핵심 가치 단일 결론(8s) ──> CTA 및 브랜드(4s)
     *   *내용:* *(예: 16:9 버전 및 9:16 버전 동시 제출)*
     
 
-
+https://github.com/user-attachments/assets/896fb0f4-bac0-44c7-9ad2-1d748f143ab0
 
 
 
